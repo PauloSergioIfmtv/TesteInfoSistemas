@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/05/14 21:22:45.000.798,=C:\Users\paulo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/14 21:26:26.000.064,=D:\Projetos\Delphi\TesteInfoSistemas\View\PessoasCadVW.pas</Transaction>
+    <Transaction>2019/05/14 21:28:42.000.453,D:\Projetos\Delphi\TesteInfoSistemas\View\InfoSisClientes.dproj=C:\Users\paulo\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/05/14 22:26:48.000.273,=D:\Projetos\Delphi\TesteInfoSistemas\View\Unit1.pas</Transaction>
+    <Transaction>2019/05/14 22:27:26.000.123,D:\Projetos\Delphi\TesteInfoSistemas\DAO\UtilsDAO.pas=D:\Projetos\Delphi\TesteInfoSistemas\View\Unit1.pas</Transaction>
+    <Transaction>2019/05/15 09:30:31.000.347,C:\TesteInfoSistemas\View\PessoasCadVW.pas=</Transaction>
+    <Transaction>2019/05/15 09:30:59.000.374,=C:\TesteInfoSistemas\View\PessoasCadVW.pas</Transaction>
+    <Transaction>2019/05/15 10:52:16.000.849,=C:\TesteInfoSistemas\Unit1.pas</Transaction>
+    <Transaction>2019/05/15 10:52:51.000.207,C:\TesteInfoSistemas\EN\PessoasEN.pas=C:\TesteInfoSistemas\Unit1.pas</Transaction>
+    <Transaction>2019/05/15 11:03:12.000.131,=C:\TesteInfoSistemas\Unit1.pas</Transaction>
+    <Transaction>2019/05/15 11:03:26.000.336,C:\TesteInfoSistemas\DAO\PessoasDAO.pas=C:\TesteInfoSistemas\Unit1.pas</Transaction>
+    <Transaction>2019/05/15 15:28:04.000.488,=C:\TesteInfoSistemas\Unit1.pas</Transaction>
+    <Transaction>2019/05/15 15:28:31.000.124,C:\TesteInfoSistemas\View\EmailCadVW.dfm=C:\TesteInfoSistemas\Unit1.dfm</Transaction>
+    <Transaction>2019/05/15 15:28:31.000.124,C:\TesteInfoSistemas\View\EmailCadVW.pas=C:\TesteInfoSistemas\Unit1.pas</Transaction>
+    <Transaction>2019/05/15 15:58:32.000.095,=C:\TesteInfoSistemas\Unit1.pas</Transaction>
+    <Transaction>2019/05/15 15:58:45.000.056,C:\TesteInfoSistemas\EN\EmailEN.pas=C:\TesteInfoSistemas\Unit1.pas</Transaction>
+    <Transaction>2019/05/15 16:03:10.000.261,=C:\TesteInfoSistemas\Unit1.pas</Transaction>
+    <Transaction>2019/05/15 16:03:28.000.563,C:\TesteInfoSistemas\DAO\EmailDAO.pas=C:\TesteInfoSistemas\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
